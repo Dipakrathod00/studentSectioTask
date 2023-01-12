@@ -1,0 +1,12 @@
+{
+  "student": [
+    {
+      "email": "dipakrathod2808@gmail.com",
+      "name": "Dipak Rathod",
+      "mobile": "08999010312",
+      "fees": "paid",
+      "departments": "BCA",
+      "id": 1
+    }
+  ]
+}
